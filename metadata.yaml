@@ -1,0 +1,36 @@
+_repo: Botticelli_61501
+_version: 0.0.1
+alternative_title: Sandro Botticelli
+creator:
+  author:
+    agent_name: Schaeffer, Emil
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '51462'
+    url: http://www.gutenberg.org/2009/agents/51462
+    wikipedia: https://de.wikipedia.org/wiki/Emil_Schaeffer
+  editor:
+    agent_name: Muther, Richard
+    birthdate: 1860
+    deathdate: 1909
+    gutenberg_agent_id: '42409'
+    url: http://www.gutenberg.org/2009/agents/42409
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Richard_Muther
+    - https://en.wikipedia.org/wiki/Richard_Muther_(art_historian)
+description: ''
+gutenberg_issued: '2020-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61501'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Die kunst; sammlung illustrierter monographien. 16. bd.
+subjects:
+- !lcsh 'Botticelli, Sandro, 1444 or 5-1510'
+- !lcc 'ND'
+- GITenberg
+title: Botticelli
+url: http://www.gutenberg.org/ebooks/61501
