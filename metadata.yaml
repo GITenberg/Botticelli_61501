@@ -1,6 +1,9 @@
 _repo: Botticelli_61501
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Sandro Botticelli
+covers:
+- cover_type: archival
+  image_path: 61501-h/images/cover_back.jpg
 creator:
   author:
     agent_name: Schaeffer, Emil
@@ -19,6 +22,8 @@ creator:
     - https://de.wikipedia.org/wiki/Richard_Muther
     - https://en.wikipedia.org/wiki/Richard_Muther_(art_historian)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61501#Botticelli
 gutenberg_issued: '2020-02-24'
 gutenberg_type: Text
 identifiers:
